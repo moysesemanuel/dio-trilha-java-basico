@@ -18,6 +18,10 @@ public class OperadorRelacional {
 
         System.out.println("numeroUm é igual a numeroDois? " + simNao);
 
+        simNao = numero1 != numero2;
+
+        System.out.println("numeroUm é igual a numeroDois? " + simNao);
+
         //if(numero1 > numero2);
 
     }
