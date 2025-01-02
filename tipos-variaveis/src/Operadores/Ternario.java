@@ -4,7 +4,7 @@ package Operadores;
  */
 //EXEMPLOS
 
-public class OperadorTernario {
+public class Ternario {
 
     public static void main(String[] args){
 
