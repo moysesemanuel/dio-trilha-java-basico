@@ -12,7 +12,7 @@ public class Relacional {
     public static void main(String[] args){
 
         String nomeUm = "MOYSES";
-        String nomeDois = "MOYSES"
+        String nomeDois = "MOYSES";
 
         System.out.println(nomeUm == nomeDois);
 
